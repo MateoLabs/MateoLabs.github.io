@@ -37,14 +37,11 @@ sidebar:
         level: Professionnel
 
     hobbies:
-      - item: Plongée
-        link:
+      - item: Plongée sous-marine / Apnée
+        link: https://www.plongee-kornog-carquefou.fr
 
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
-        link:
+      - item: Photographie
+        link: https://www.flickr.com/people/148864068@N03/
 
 career-profile:
     title: Career Profile
