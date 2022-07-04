@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -29,14 +29,14 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: http://www.africau.edu/images/default/sample.pdf
 
-    languages:
+    langues:
       - idiom: Français
         level: Langue maternelle
 
       - idiom: Anglais
         level: Professionnel
 
-    interests:
+    hobbies:
       - item: Plongée
         link:
 
@@ -78,9 +78,9 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-experiences:
+experiences professionnelles:
     - role: Ingénieur multi-rôles
-      time: 2020 - Present
+      time: 2020 - Aujourd'hui
       company: Desoutter, Saint Herblain, France
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
@@ -117,7 +117,7 @@ experiences:
           - Bullet point
           - Bullet point
 
-    - role: Ingénieur multi-rôle
+    - role: Ingénieur multi-rôles
       time: 2015 - 2018
       company: LX GROUP, Sydney, Australie
       details: |
