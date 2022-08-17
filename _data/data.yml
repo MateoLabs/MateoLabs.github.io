@@ -59,7 +59,7 @@ education:
     - degree: Diplôme d'ingénieur en Systèmes embarqués
       university: Ecoles des Mines de Saint Etienne cycle ISMIN, Gardanne, France
       time: 2009 - 2012
-      details: 
+      details: |
           - Majeure: Systèmes embarqués
           - Mineure: Entrepreneuriat
     - degree: CPGE PTSI
@@ -71,7 +71,7 @@ experiences:
       time: 2020 - Aujourd'hui
       company: Desoutter, Saint Herblain, France
       details: |
-        Développement d'un système d'injection de vis automatisé pour chaînes d'assemblagle
+        Développement d'un système d'injection de vis automatisé pour chaînes d'assemblage
         Contexte: Pandémie mondiale, pénurie de semi-conducteurs.
         Flexilbilité, autonomie, polyvalence. 
           - Python / C++
