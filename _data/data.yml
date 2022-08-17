@@ -59,12 +59,7 @@ education:
     - degree: Diplôme d'ingénieur en Systèmes embarqués
       university: Ecoles des Mines de Saint Etienne cycle ISMIN, Gardanne, France
       time: 2009 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+      details: 
           - Majeure: Systèmes embarqués
           - Mineure: Entrepreneuriat
     - degree: CPGE PTSI
