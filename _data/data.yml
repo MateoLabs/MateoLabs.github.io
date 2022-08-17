@@ -37,7 +37,10 @@ sidebar:
         level: Professionnel
 
     hobbies:
-      - item: Plongée sous-marine / Apnée
+      - item: Plongée sous-marine (N2)
+        link: https://www.plongee-kornog-carquefou.fr
+
+      - item: Apnée (AIDA *)
         link: https://www.plongee-kornog-carquefou.fr
 
       - item: Photographie
@@ -67,31 +70,18 @@ education:
     - degree: CPGE PTSI
       university: Lycée Livet, Nantes, France
       time: 2006 - 2009
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+
 experiences:
-    - role: Ingénieur multi-rôles
+    - role: Ingénieur multi-rôles / Entrepreneur
       time: 2020 - Aujourd'hui
       company: Desoutter, Saint Herblain, France
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Ingénieur conception électronique
+        Développement d'un système d'injection de vis automatisé pour chaînes d'assemblagle
+        Contexte: Pandémie mondiale, pénurie de semi-conducteurs.
+        Flexilbilité, autonomie, polyvalence. 
+          - Python / C++
+          - Machine outil à commande numérique
+    - role: Ingénieur conception électronique / Entrepreneur
       time: 2019 - 2020
       company: Sercel, Carquefou, France
       details: |
@@ -102,7 +92,7 @@ experiences:
         pellentesque eu, pretium quis, sem.
           - Bullet point
           - Bullet point
-    - role: Ingénieur conception électronique
+    - role: Ingénieur conception électronique / Entrepreneur
       time: 2018 - 2019
       company: EOLANE, Combrée, France
       details: |
