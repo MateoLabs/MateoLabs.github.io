@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: mathieu.leroux@mateolabs.fr
-    phone: +33 6 31 00 89 72
+    phone: +33 7 49 47 49 73
     timezone: Europe/Paris 
     citizenship:
     website: mateolabs.fr #do not add http://
@@ -65,18 +65,24 @@ experiences:
       details: |
         Développement d'un système d'injection de vis automatisé pour chaînes d'assemblage
         Contexte: Pandémie mondiale, pénurie de semi-conducteurs.
-        Flexilbilité, autonomie, polyvalence. 
+        Flexibilité, autonomie, polyvalence. 
           - Python / C++
           - Machine outil à commande numérique
     - role: Ingénieur conception électronique / Entrepreneur
       time: 2019 - 2020
       company: Sercel, Carquefou, France
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Sercel est une entreprise spécialisée dans le développement
+        et la commercialisation de produits d’acquisition sismique
+        pour l’industrie de prospection d’hydrocarbures
+        Responsabilités principales
+        Intégré à la division R&D de Sercel sur le projet WiNG, j’ai eu l’opportunité de travailler sur les deux versions du produit (AFU et DFU) ainsi que leur l’écosystème.
+          -	Validation de la partie capteur du produit à dominante analogique (AFU)
+          -	Support pour les différentes entités rattachées au projet (Technologie, Logiciel embarqué, Qualité, Méthodes Test)
+        Réalisations principales
+          -	Amélioration des interactions inter-équipes par adaptation et diffusion des outils logiciels auprès des différents acteurs du projet
+          -	Amélioration du processus de validation par automatisation des différentes étapes (Python)
+
           - Bullet point
           - Bullet point
     - role: Ingénieur conception électronique / Entrepreneur
