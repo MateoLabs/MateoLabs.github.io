@@ -8,11 +8,11 @@ sidebar:
 
     # Profile information
     name: Mathieu LEROUX
-    tagline: Ingénieur conception électronique
+    tagline: Ingénieur indépendant
     avatar: profile.JPEG  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: contact@mateolabs.fr
+    email: mathieu.leroux@mateolabs.fr
     phone: +33 6 31 00 89 72
     timezone: Europe/Paris 
     citizenship:
@@ -37,10 +37,7 @@ sidebar:
         level: Professionnel
 
     hobbies:
-      - item: Plongée sous-marine (N2)
-        link: https://www.plongee-kornog-carquefou.fr
-
-      - item: Apnée (AIDA *)
+      - item: Plongée sous-marine (N3)
         link: https://www.plongee-kornog-carquefou.fr
 
       - item: Photographie
@@ -49,12 +46,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Polyvalent et autonome, je suis spécialisé dans la conception et la réalisation de produits électroniques se rattachant au domaine de l’internet des objets. Je suis à la recherche d’un cadre dynamique et stimulant pour continuer à développer ces appareils dans un milieu industriel.
 education:
     - degree: Diplôme d'ingénieur en Systèmes embarqués
       university: Ecoles des Mines de Saint Etienne cycle ISMIN, Gardanne, France
